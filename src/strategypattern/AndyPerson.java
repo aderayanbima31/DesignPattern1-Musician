@@ -1,12 +1,11 @@
+package strategypattern;
 
-import implement_skill.PlayGuitarJazzy;
-import implement_skill.PlayPianoJazzy;
-import interface_skill.JazzSong;
-import interface_skill.RockSong;
+import strategypattern.implement_skill.PlayGuitarJazzy;
+import strategypattern.implement_skill.PlayPianoJazzy;
 
 /**
  * @author Derayan Bima A (derayan.bima@dana.id)
- * @version AndyPerson, v 0.1 2019-07-04 09:40 by Derayan Bima A
+ * @version strategypattern.AndyPerson, v 0.1 2019-07-04 09:40 by Derayan Bima A
  */
 public class AndyPerson extends Musician {
 

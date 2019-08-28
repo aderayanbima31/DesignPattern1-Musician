@@ -1,6 +1,6 @@
-package implement_skill;
+package strategypattern.implement_skill;
 
-import interface_skill.JazzSong;
+import strategypattern.interface_skill.JazzSong;
 
 public class PlayGuitarJazzy implements JazzSong {
     @Override

@@ -1,6 +1,8 @@
-import implement_skill.PlayGuitarJazzy;
-import implement_skill.PlayGuitarRocker;
-import implement_skill.PlayPianoJazzy;
+package strategypattern;
+
+import strategypattern.implement_skill.PlayGuitarJazzy;
+import strategypattern.implement_skill.PlayGuitarRocker;
+import strategypattern.implement_skill.PlayPianoJazzy;
 
 public class Main {
 
@@ -22,7 +24,7 @@ public class Main {
         abra.setJazzSongBehavior(new PlayPianoJazzy());
         abra.performJazzSong();
 
-       /* Musician kaleb = new KalebPerson();
+       /* strategypattern.Musician kaleb = new strategypattern.KalebPerson();
         kaleb.display();
         kaleb.playGuitar();
         kaleb.playPiano();*/

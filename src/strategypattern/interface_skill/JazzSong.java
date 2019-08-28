@@ -1,4 +1,4 @@
-package interface_skill;
+package strategypattern.interface_skill;
 
 /**
  * @author Derayan Bima A (derayan.bima@dana.id)

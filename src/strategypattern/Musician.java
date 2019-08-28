@@ -1,9 +1,11 @@
-import interface_skill.JazzSong;
-import interface_skill.RockSong;
+package strategypattern;
+
+import strategypattern.interface_skill.JazzSong;
+import strategypattern.interface_skill.RockSong;
 
 /**
  * @author Derayan Bima A (derayan.bima@dana.id)
- * @version Musician, v 0.1 2019-07-04 09:38 by Derayan Bima A
+ * @version strategypattern.Musician, v 0.1 2019-07-04 09:38 by Derayan Bima A
  */
 public abstract class Musician {
 

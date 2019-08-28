@@ -1,8 +1,8 @@
-import interface_skill.JazzSong;
+package strategypattern;
 
 /**
  * @author Derayan Bima A (derayan.bima@dana.id)
- * @version KalebPerson, v 0.1 2019-07-04 09:42 by Derayan Bima A
+ * @version strategypattern.KalebPerson, v 0.1 2019-07-04 09:42 by Derayan Bima A
  */
 public class KalebPerson extends Musician {
 

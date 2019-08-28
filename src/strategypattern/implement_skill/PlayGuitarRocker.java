@@ -1,6 +1,6 @@
-package implement_skill;
+package strategypattern.implement_skill;
 
-import interface_skill.RockSong;
+import strategypattern.interface_skill.RockSong;
 
 public class PlayGuitarRocker implements RockSong {
     @Override
