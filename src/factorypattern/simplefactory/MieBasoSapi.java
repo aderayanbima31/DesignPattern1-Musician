@@ -1,4 +1,4 @@
-package factorypattern;
+package factorypattern.simplefactory;
 
 public class MieBasoSapi extends MieBaso {
 
